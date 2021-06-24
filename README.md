@@ -1,1 +1,1 @@
-# K-means-and-PCA-algorithms
+This project first implements the PCA and K-means algorithms on Fisher's Iris flower data (1936). It then uses PCA as a pre-processing tool for implementing K-means on the much larger MNIST handwritten digit dataset, reducing the number of dimensions to 10 from 784. 
